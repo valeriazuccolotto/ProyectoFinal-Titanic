@@ -1,0 +1,27 @@
+REPORTE DEL TITANIC
+
+Conteo de filas:
+  Total: 340
+  Validas: 340
+  Descartadas: 0
+
+Estadisticas de Edad:
+  Suma total: 7958.75
+  Promedio: 29.15
+  Desviacion estandar: 14.52
+  Mediana: 28.00
+  Minimo: 0.83
+  Maximo: 71.00
+
+Estadisticas de Tarifa:
+  Suma total: 11138.81
+  Promedio: 32.76
+  Desviacion estandar: 49.29
+  Mediana: 14.77
+  Minimo: 0.00
+  Maximo: 512.33
+
+Ejemplos de transformacion de Sexo:
+male -> MALE$$$$
+female -> FEMALE$$
+female -> FEMALE$$
